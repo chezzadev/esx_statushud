@@ -4,6 +4,7 @@
 ![alt text](https://i.gyazo.com/86847c95fc4219926c9d4b342c2f3349.png "status_hud")
 
 ### Requirements
+* ESX Framework
 * [esx_status](https://github.com/ESX-Org/esx_status)
 * [esx_basicneeds](https://github.com/ESX-Org/esx_basicneeds)
 
