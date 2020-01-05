@@ -5,5 +5,6 @@
 
 ### Installation 
 * Drag **esx-statushud** folder into your resources and add to your **server.cfg**.
-* ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+* [esx_status](https://github.com/ESX-Org/esx_status)
+* [esx_basicneeds](https://github.com/ESX-Org/esx_basicneeds)
 
