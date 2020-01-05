@@ -17,6 +17,7 @@ New Line:
 TriggerEvent('esx_statushud:onTick', GetStatusData(true))
 ```
 * Open **esx_basicneeds/client/main.lua** and change values of lines `43` and `49` to `false`.
+
 Original Line:
 ```lua
 return true
