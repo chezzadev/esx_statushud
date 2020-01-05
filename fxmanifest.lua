@@ -6,7 +6,7 @@ description ''
 
 contributor {
     'Chezza'
-};
+}
 
 ui_page 'html/ui.html'
 
