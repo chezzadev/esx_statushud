@@ -10,9 +10,9 @@
 
 Original Line:
 ```lua
-    TriggerEvent('esx_status:onTick', GetStatusData(true))
+TriggerEvent('esx_status:onTick', GetStatusData(true))
 ```
 New Line:
 ```lua
-	TriggerEvent('esx_statushud:onTick', GetStatusData(true))
+TriggerEvent('esx_statushud:onTick', GetStatusData(true))
 ```
