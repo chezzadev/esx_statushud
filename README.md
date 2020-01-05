@@ -1,8 +1,11 @@
 # esx_statushud
 
+
+### Images
+
+
 ### Requirements
-* [esx_status](https://github.com/ESX-Org/esx_status)
-* [esx_basicneeds](https://github.com/ESX-Org/esx_basicneeds)
+![alt text](https://i.gyazo.com/86847c95fc4219926c9d4b342c2f3349.png "Logo Title Text 1")
 
 ### Installation 
 * Drag **esx-statushud** folder into your resources and add to your **server.cfg** under the required scripts.
