@@ -6,12 +6,13 @@
 
 ### Installation 
 * Drag **esx-statushud** folder into your resources and add to your **server.cfg** under the required scripts.
-* Open **esx_status/client/main.lua** and replace line 71 with the line below.
-Original Line
+* Open **esx_status/client/main.lua** and replace line 71 with the `New Line` below.
+
+Original Line:
 ```lua
     TriggerEvent('esx_status:onTick', GetStatusData(true))
 ```
-New Line
+New Line:
 ```lua
 	TriggerEvent('esx_statushud:onTick', GetStatusData(true))
 ```
